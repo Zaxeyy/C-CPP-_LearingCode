@@ -1,0 +1,5 @@
+﻿  test.cpp
+E:\Code\通讯录管理系统\通讯录管理系统\test.cpp(309,9): error C2086: “int i”: 重定义
+      E:\Code\通讯录管理系统\通讯录管理系统\test.cpp(297,9):
+      参见“i”的声明
+  
