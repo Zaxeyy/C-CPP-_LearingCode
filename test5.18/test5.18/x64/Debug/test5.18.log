@@ -1,0 +1,4 @@
+﻿  LongestCommonSq.cpp
+E:\C-CPP-_LearingCode\test5.18\test5.18\LongestCommonSq.cpp(14,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\C-CPP-_LearingCode\test5.18\test5.18\LongestCommonSq.cpp(15,8): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  test5.18.vcxproj -> E:\C-CPP-_LearingCode\test5.18\x64\Debug\test5.18.exe

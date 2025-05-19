@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-CPP-_LearingCode\\test5.18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\LongestCommonSq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|solutionrelative:test5.18\\LongestCommonSq.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\fib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|solutionrelative:test5.18\\fib.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\bubblesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{37EBE86E-A0F5-4DAD-B45F-A36BD367F75F}|test5.18\\test5.18.vcxproj|solutionrelative:test5.18\\bubblesort.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "bubblesort.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\bubblesort.cpp",
+              "RelativeDocumentMoniker": "test5.18\\bubblesort.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\bubblesort.cpp",
+              "RelativeToolTip": "test5.18\\bubblesort.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T09:16:23.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fib.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\fib.cpp",
+              "RelativeDocumentMoniker": "test5.18\\fib.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\fib.cpp",
+              "RelativeToolTip": "test5.18\\fib.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T09:16:22.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LongestCommonSq.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\LongestCommonSq.cpp",
+              "RelativeDocumentMoniker": "test5.18\\LongestCommonSq.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.18\\test5.18\\LongestCommonSq.cpp",
+              "RelativeToolTip": "test5.18\\LongestCommonSq.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-18T09:16:19.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
