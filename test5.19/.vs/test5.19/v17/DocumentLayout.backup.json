@@ -1,12 +1,71 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Code\\test5.19\\",
-  "Documents": [],
+  "WorkspaceRootPath": "E:\\C-CPP-_LearingCode\\test5.19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|solutionrelative:test5.19\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix_Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|solutionrelative:test5.19\\Matrix_Fibonacci.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D49D966D-89BE-45EB-9606-272CFA4A5F15}|test5.19\\test5.19.vcxproj|solutionrelative:test5.19\\Matrix.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\test.cpp",
+              "RelativeDocumentMoniker": "test5.19\\test.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\test.cpp",
+              "RelativeToolTip": "test5.19\\test.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:21:05.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Matrix_Fibonacci.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix_Fibonacci.cpp",
+              "RelativeDocumentMoniker": "test5.19\\Matrix_Fibonacci.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix_Fibonacci.cpp",
+              "RelativeToolTip": "test5.19\\Matrix_Fibonacci.cpp",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:20:53.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Matrix.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix.cpp",
+              "RelativeDocumentMoniker": "test5.19\\Matrix.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.19\\test5.19\\Matrix.cpp",
+              "RelativeToolTip": "test5.19\\Matrix.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:20:17.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

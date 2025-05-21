@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\C-CPP-_LearingCode\\test5.20\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8EC07C6-F8CC-4858-8F8B-5D3FCC35A046}|test5.20\\test5.20.vcxproj|E:\\C-CPP-_LearingCode\\test5.20\\test5.20\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A8EC07C6-F8CC-4858-8F8B-5D3FCC35A046}|test5.20\\test5.20.vcxproj|solutionrelative:test5.20\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "E:\\C-CPP-_LearingCode\\test5.20\\test5.20\\test.cpp",
+              "RelativeDocumentMoniker": "test5.20\\test.cpp",
+              "ToolTip": "E:\\C-CPP-_LearingCode\\test5.20\\test5.20\\test.cpp*",
+              "RelativeToolTip": "test5.20\\test.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwCkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-20T00:28:04.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
