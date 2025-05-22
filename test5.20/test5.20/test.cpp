@@ -42,6 +42,8 @@ public:
 	template<typename VST> void traverse(VST& visit);
 
 	int disordered()const;
+	void bubbleSort(Rank lo, Rank hi);
+	bool bubble(Rank lo, Rank hi);
 };
 template<typename T> struct Increase { virtual void operator()(T& e){e++;} };//自增
 template<typename T> struct Print { virtual void operator()(T& e){cout << e << endl;} };
@@ -118,7 +120,7 @@ template<typename T> int Vector<T>::disordered() const
 		n += (_elem[i - 1] > _elem[i]);//逆序数统计
 	return n;
 }//若只需要判断是否有序，则首次遇到逆序对后，即可立即终止
-
+template<typename T> bool Vector<T>::bubble
 
 int main()
 {
